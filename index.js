@@ -14,12 +14,12 @@ function isPalindrome(word) {
 
 /*
   Add your pseudocode here
-  1. function ispalindrome accepts an argument as string
-  2.get the length of the string
-  3. divide the string into two half
-  4check if the first and the last characters are the same
-  5. returns true if the characters are the same
-  6.returns false if the characters are not the same
+  .The  function ispalindrome accepts an argument as string
+  .get the length of the string
+   divide the string into two half
+  check if the first and the last characters are the same
+  . returns true if the characters are the same
+  .returns false if the characters are not the same
 */
 
 /*
